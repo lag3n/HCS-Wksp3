@@ -1,5 +1,3 @@
-import { Dish } from "./Dish";
-
 function App() {
   return (
     <div> 
